@@ -1,0 +1,17 @@
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\obj\Debug\net6.0-windows\FrankNote.csproj.AssemblyReference.cache
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\obj\Debug\net6.0-windows\FrankNote.bttNew.resources
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\obj\Debug\net6.0-windows\FrankNote.csproj.GenerateResource.cache
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\obj\Debug\net6.0-windows\FrankNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\obj\Debug\net6.0-windows\FrankNote.AssemblyInfoInputs.cache
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\obj\Debug\net6.0-windows\FrankNote.AssemblyInfo.cs
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\obj\Debug\net6.0-windows\FrankNote.csproj.CoreCompileInputs.cache
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\bin\Debug\net6.0-windows\FrankNote.exe
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\bin\Debug\net6.0-windows\FrankNote.deps.json
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\bin\Debug\net6.0-windows\FrankNote.runtimeconfig.json
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\bin\Debug\net6.0-windows\FrankNote.dll
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\bin\Debug\net6.0-windows\ref\FrankNote.dll
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\bin\Debug\net6.0-windows\FrankNote.pdb
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\obj\Debug\net6.0-windows\FrankNote.dll
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\obj\Debug\net6.0-windows\ref\FrankNote.dll
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\obj\Debug\net6.0-windows\FrankNote.pdb
+C:\Users\frankmartinez\source\repos\FrankNote\FrankNote\obj\Debug\net6.0-windows\FrankNote.genruntimeconfig.cache
